@@ -7,6 +7,10 @@ A Salt Demo using Vagrant.
 
 **Placeholder** for #cfgmgmt2018 salt monitoring auto deployment - this should be updated after I've done the demo. Watch this space.
 
+Use SaltStack to deploy a full monitoring and supervision stack
+-------------------------------------------------------------------
+
+http://cfgmgmtcamp.eu/schedule/salt/monitoring.html
 
 Instructions
 ============
