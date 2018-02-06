@@ -4,8 +4,11 @@ Salt Vagrant Demo
 
 A Salt Demo using Vagrant.
 
+Customized/forked for a demo à #cfgmgmtcamp 
 
-**Placeholder** for #cfgmgmt2018 salt monitoring auto deployment - this should be updated after I've done the demo. Watch this space.
+.. image:: http://cfgmgmtcamp.eu/images/logo_top.png
+
+**Placeholder** for #cfgmgmtcamp2018 salt monitoring auto deployment - this should be updated after I've done the demo. Watch this space.
 
 Use SaltStack to deploy a full monitoring and supervision stack
 -------------------------------------------------------------------
